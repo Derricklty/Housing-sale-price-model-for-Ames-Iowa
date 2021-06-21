@@ -1,4 +1,4 @@
-# Project 2 - Ames Housing Data and Kaggle Challenge
+# Ames Housing Data and Kaggle Challenge
 
 ### Problem Statement
 
@@ -100,4 +100,5 @@ More transactional details of past sales (e.g. demographic of buyers/sellers) to
 ### Data Source and Dictionary
 
 Data Sets: https://www.kaggle.com/c/dsir-28-project-2-regression-challenge/data
+
 Data Dictionary: http://jse.amstat.org/v19n3/decock/DataDocumentation.txt
